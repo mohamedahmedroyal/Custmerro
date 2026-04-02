@@ -1,5 +1,3 @@
 streamlit
-streamlit-folium
-folium
 pandas
 streamlit-js-eval
